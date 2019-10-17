@@ -1,2 +1,2 @@
 # hello-world
-Jusy my repository =)
+Justmy repository =)
